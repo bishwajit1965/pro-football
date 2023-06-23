@@ -1,0 +1,8 @@
+.player-wrapper-container {
+  display: grid;
+  grid-template-columns: 5fr 2fr;
+  gap: 1rem;
+  justify-content: center;
+  width: 85%;
+  margin: auto;
+}
